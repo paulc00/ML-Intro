@@ -1,4 +1,4 @@
-# ML-Intro
+# Intro to Data Science and Machine Learning in Python
 Notebooks and supporting files for "Intro to Data Science and Machine Learning in Python"
 
 ## Linear Algebra Basics
