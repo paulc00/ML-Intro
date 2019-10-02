@@ -46,7 +46,7 @@ A short demonstration of PCA
 
 This exercise takes you through using T-SNE to enhance the performance of k-means while also providing the ability to easily visualize complex multidimensional data.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/paulc00/ML-Intro/blob/master/notebooks/7_Clustering_(2).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulc00/ML-Intro/blob/master/notebooks/7_Clustering_(2).ipynb)
 
 # Further Exploration
 
